@@ -10,7 +10,6 @@ Mes dépôts publics sur GitHub sont en majorité des projets personnels.
 
 Projets personnels en cours de développement: 
 
-- https://1517.ch
 - https://eglises-ouvertes.ch/
 
 Projet personnel en production: 
