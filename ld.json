@@ -9,10 +9,7 @@
       "https://theologique.ch/",
       "https://frdl.ch",
       "https://ma-paroisse.ch",
-      "https://eglises-ouvertes.ch",
-      "https://1517.ch",
-      "https://docte.ch",
-      "https://predication.ch"
+      "https://docte.ch"
    ],
    "image":"https://frdl.ch/nicolas-friedli.jpg",
    "address":{
@@ -23,7 +20,7 @@
       "postalCode":"2013",
       "addressCountry":"Suisse"
    },
-   "email":"nicolasfriedli@protonmail.ch",
+   "email":"hello+2023@nicolasfriedli.ch",
    "alumniOf":"Université de Neuchâtel",
    "nationality":"Suisse",
    "telephone":"+41328414874"
